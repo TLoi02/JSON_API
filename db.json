@@ -1,5 +1,5 @@
-[
-    [
+{
+    "product": [
         {
             "idProduct": "101",
             "type": "Glazed",
@@ -67,4 +67,4 @@
             "trending": 0
         }
     ]
-]
+}
